@@ -4,6 +4,9 @@
 
 One wants to use the original sources of a package (of the Stackage/Hackage repository), to modify it's files locally, and in order to investigate or contribute to improvement - without using tarball files.
 
+Source: https://www.sw4sd.com/hasksheet/doku.php?id=toolsetup:buildingapackagelocally
+See also https://github.com/JoergBrueggmann/Test6
+
 ## Procedure - without tarball files
 
     unpack the package that should be obtained as source code
@@ -118,5 +121,3 @@ One wants to use the original sources of a package (of the Stackage/Hackage repo
         Test7 > Registering library for Test7-0.1.0.0..
         Completed 2 action(s).
 
-
-Source: https://www.sw4sd.com/hasksheet/doku.php?id=toolsetup:buildingapackagelocally
