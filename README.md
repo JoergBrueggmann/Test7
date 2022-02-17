@@ -1,5 +1,7 @@
 # Test7
 
+Shows how source files of a package that has been obtained from Stackage/Hackage (by stach unpack, as a local copy), and is embedded in an existing project - without using tarball files.
+
 ## Use case
 
 One wants to use the original sources of a package (of the Stackage/Hackage repository), to modify it's files locally, and in order to investigate or contribute to improvement - without using tarball files.
